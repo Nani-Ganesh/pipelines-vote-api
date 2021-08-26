@@ -1,3 +1,2 @@
 sample push via UI
-second update
-third change
+second change
